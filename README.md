@@ -1,19 +1,23 @@
-# pixi学习
+# react-cmp
 
-#### 安装依赖
+- 初始化开发一个react的组件
 
-- ```
-  npm install
-  ```
+- 使用
 
-#### 开发测试
+  #### 安装依赖
 
-- ```
-  npm run dev
-  ```
+  - ```
+    npm install
+    ```
 
-#### 发布打包
+  #### 开发测试
 
-- ```
-  npm run pub
-  ```
+  - ```
+    npm run dev
+    ```
+
+  #### 发布打包
+
+  - ```
+    npm run pub
+    ```

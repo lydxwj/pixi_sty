@@ -1,7 +1,14 @@
 import * as PIXI from 'pixi.js';
 export const Application = PIXI.Application;
+export const ParticleContainer = PIXI.particles.ParticleContainer;
+export const Graphics = PIXI.Graphics;
+export const Container = PIXI.Container;
 export const loader = PIXI.loader;
 export const resources = PIXI.loader.resources;
 export const Sprite = PIXI.Sprite;
+export const Text = PIXI.Text;
+export const TextStyle = PIXI.TextStyle;
 export const Rectangle = PIXI.Rectangle;
 export const TextureCache = PIXI.utils.TextureCache;
+export const autoDetectRenderer = PIXI.autoDetectRenderer;
+export const AnimatedSprite = PIXI.extras.AnimatedSprite;

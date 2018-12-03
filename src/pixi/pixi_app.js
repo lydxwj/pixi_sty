@@ -5,7 +5,7 @@ const options = {
 };
 function pixiApp() {
   const app = new Application(options);
-  app.renderer.backgroundColor = 0x999999;
+  app.renderer.backgroundColor = 0xffffff;
   app.renderer.view.style.position = "absolute";
   app.renderer.view.style.left = "0";
   app.renderer.view.style.top = "0";
